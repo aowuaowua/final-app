@@ -7,7 +7,7 @@
 
 ## Notion For Using:
 
-### packages needed:
+### Packages needed:
 
 - import pandas as pd
 
