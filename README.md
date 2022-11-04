@@ -27,7 +27,7 @@
 ### Page Select Demo:
 ![image](selectpage.png)
 
-The analysis is divided into four parts:
+**The analysis is divided into four parts:**
 
 ### Ship Mode Analysis
 
