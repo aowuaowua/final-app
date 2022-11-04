@@ -4,7 +4,7 @@
 
 - Including the **profit**, **margin**, **potential**, **weakness** within the four different aspect regarding the company.
 
-- The app is available for users to conduct certain interactions: page selection, buttons, slidebar, query etc.
+- The app is available for users to conduct certain **interactions**: page selection, buttons, slidebar, query etc.
 
 ## Notion For Using:
 
