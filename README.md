@@ -55,7 +55,7 @@ Demo:
 ![image](region.png)
 
 ## Deployed 
-Click here to get to the deployed [Web App](https://william-debug-66-final-app-main-3ml2oc.streamlitapp.com/)
+Click here to go to the deployed [Web App](https://william-debug-66-final-app-main-3ml2oc.streamlitapp.com/)
 
 ## Repository Structure
 | Folder/Code | Content |
