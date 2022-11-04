@@ -18,6 +18,7 @@ from matplotlib import ticker as mtick
 1. Use *cd* to get the path
 2. Check the environment: conda activate...
 3. Type *streamlit run main.py*  
+
 ### Page Select Demo:
 ![image](selectpage.png)
 
