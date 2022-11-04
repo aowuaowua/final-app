@@ -65,7 +65,7 @@ def get_fig(*key):
     plt.plot(year_month, d, marker='*', label='Standard Class')
     plt.xlabel('Time', fontsize=0.05)
     plt.legend()
-    # 主流还是standard class，technology 的销售情况和firstclass有关系，
+    # Major: standard class，technology. Their sales are related to the first class，
 
     fig_ship_mode_count = plt.figure(figsize=(7, 6))
     plt.xticks(rotation=45)
@@ -97,7 +97,6 @@ def get_fig(*key):
     plt.plot(year_month, c, marker='s', label='Technology')
     plt.xlabel('Time', fontsize=0.01)
     plt.legend()
-    # 三条曲线相似，说明利润与三种类型的商品本身的区别关系不大，而在于外部市场环境，或企业内部统一的流程或程序
 
     if len(y)>0:
         fig_cat_pro = plt.figure(figsize=(5, 4))
@@ -200,9 +199,9 @@ def get_fig(*key):
     ten = ten_.index.tolist()
 
     fig_city_pro = plt.figure(figsize=(15, 8))
-    # 绘制条形图
-    plt.barh(range(len(value)), value, height=0.5, color='orange')  # 区别于竖的条形图 不能使用width
-    # 设置字符串到X轴
+    # barplot
+    plt.barh(range(len(value)), value, height=0.5, color='orange')  # Unlike the vertical bar chart, you cannot use width
+    # Set string to X-axis
     plt.yticks(range(len(value)), ten)
     # for a, b in enumerate(value):
     #     plt.text(a+0.1, b+1,a,ha='left',va='bottom')
@@ -282,7 +281,7 @@ years = list(df['Order Date'])
 years = set([str(y)[0:4] for y in years])
 y = []
 
-# 前端
+# Front-end code
 st.title('Business Analysis of Retail and Shipping')
 st.subheader('by Yimin Zhou & Xinyue Cao')
 st.image('WechatIMG66.jpeg')
