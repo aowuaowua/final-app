@@ -10,15 +10,15 @@
 
 ### Packages needed:
 
-- import pandas as pd
+``import pandas as pd``
 
-- import matplotlib.pyplot as plt
+``import matplotlib.pyplot as plt``
 
-- import seaborn as sns
+``import seaborn as sns``
 
-- import streamlit as st
+``import streamlit as st``
 
-- from matplotlib import ticker as mtick
+``from matplotlib import ticker as mtick``
 
 ### Use **Anaconda Prompt** to open the app:
 - Use *cd* to get the path
