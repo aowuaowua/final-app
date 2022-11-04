@@ -1,7 +1,7 @@
 # Business analysis of Retail and shopping
 
 ### This app showed a detailed analysis of the Business of a store:
-Including the **profit**, **margin**, **potential**, **weakness** within the four different aspect regaring the company.
+Including the **profit**, **margin**, **potential**, **weakness** within the four different aspect regarding the company.
 
 ## Notion For Using:
 ### packages needed:
